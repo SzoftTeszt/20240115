@@ -1,0 +1,14 @@
+C:\Users\Tanar\source\repos\readkey\readkey\bin\Debug\net6.0\readkey.exe
+C:\Users\Tanar\source\repos\readkey\readkey\bin\Debug\net6.0\readkey.deps.json
+C:\Users\Tanar\source\repos\readkey\readkey\bin\Debug\net6.0\readkey.runtimeconfig.json
+C:\Users\Tanar\source\repos\readkey\readkey\bin\Debug\net6.0\readkey.dll
+C:\Users\Tanar\source\repos\readkey\readkey\bin\Debug\net6.0\readkey.pdb
+C:\Users\Tanar\source\repos\readkey\readkey\obj\Debug\net6.0\readkey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanar\source\repos\readkey\readkey\obj\Debug\net6.0\readkey.AssemblyInfoInputs.cache
+C:\Users\Tanar\source\repos\readkey\readkey\obj\Debug\net6.0\readkey.AssemblyInfo.cs
+C:\Users\Tanar\source\repos\readkey\readkey\obj\Debug\net6.0\readkey.csproj.CoreCompileInputs.cache
+C:\Users\Tanar\source\repos\readkey\readkey\obj\Debug\net6.0\readkey.dll
+C:\Users\Tanar\source\repos\readkey\readkey\obj\Debug\net6.0\refint\readkey.dll
+C:\Users\Tanar\source\repos\readkey\readkey\obj\Debug\net6.0\readkey.pdb
+C:\Users\Tanar\source\repos\readkey\readkey\obj\Debug\net6.0\readkey.genruntimeconfig.cache
+C:\Users\Tanar\source\repos\readkey\readkey\obj\Debug\net6.0\ref\readkey.dll

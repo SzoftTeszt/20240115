@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "readkey", "readkey\readkey.csproj", "{46B584A9-C2EF-4CC0-B03D-03DEB9453ABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46B584A9-C2EF-4CC0-B03D-03DEB9453ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B584A9-C2EF-4CC0-B03D-03DEB9453ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B584A9-C2EF-4CC0-B03D-03DEB9453ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B584A9-C2EF-4CC0-B03D-03DEB9453ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E968547E-BC8D-4A82-8338-E9198EBDD366}
+	EndGlobalSection
+EndGlobal
